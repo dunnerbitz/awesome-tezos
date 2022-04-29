@@ -59,6 +59,11 @@ Table of Content
 - [Arronax](https://arronax.io/tezos/mainnet/blocks)
   > Blockchain Analytics Tool
 
+### Our Blockchain Indexer
+
+ - [Que-Pasa](https://github.com/tzConnectBerlin/que-pasa#contracts-settings)
+	> A light-weight indexer for dApps, which only indexes the contracts you want it to.
+
 ### Tezos Smart Contract Languages
 
 - [Michelson](https://tezos.gitlab.io/michelson-reference/)
@@ -133,10 +138,15 @@ Table of Content
 ### Frameworks and libraries
 
 - [Taquito](https://tezostaquito.io/)
-  > A library for building dApps on the Tezos Blockchain - JavaScript / TypeScript
+  > A library for building dApps on the Tezos Blockchain - JavaScript / TypeScript.
 - [PyTezos](https://pytezos.org/)
   > A Python library for interacting with Tezos blockchain, testing smart contracts, and writing Michelson scripts.
 - [DipDup](https://dipdup.net/)
   > Python SDK for developing indexers of Tezos smart contracts inspired by The Graph.
 - [Chinstrap](https://github.com/ant4g0nist/chinstrap)
   > A development environment, testing framework, and origination pipeline focused solely on Tezos.
+
+### Tools
+
+ - [Peppermint](https://github.com/tzConnectBerlin/peppermint)
+	> A batch engine for minting and transferring NFTs, transferring tez, and potentially other purposes.
